@@ -1,0 +1,1 @@
+PASS: photo recurrence gives -5 + 2^(3 + n), all modular examples passed, nonlinear iteration works, and sequence classifier works
